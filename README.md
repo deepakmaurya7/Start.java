@@ -1,5 +1,5 @@
 # Start.java.demo
-Open My java program and file name star besic and normal  printed by deff and sum and mul and ans number and star others.
+Open My java program and file name star.java besic and normal  printed by deff and sum and mul and ans number and star others.
 
 
 ## Star output
