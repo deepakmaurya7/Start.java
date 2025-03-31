@@ -39,4 +39,23 @@ PS C:\Users\Deepak Maurya\Desktop> 10-10
 ```
 
 
+<br>
+
+## main.java is file name 
+
+2. Like this User Enter the Number:
+```bash
+PS C:\Users\Deepak Maurya\Desktop>  c:; cd 'c:\Users\Deepak Maurya\Desktop'; & 'C:\Program Files\Java\jdk-24\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Deepak Maurya\AppData\Roaming\Code\User\workspaceStorage\55593bf372d6eb277ffe82ec1d7b1869\redhat.java\jdt_ws\Desktop_8e7aae91\bin' 'main' 
+4
+4
+8000
+```
+
+
+
+
+
+
+
+
 
