@@ -1,4 +1,4 @@
-//Define by Odd Number And Evan Number.
+//Define by equl and Lessar and Gretor.
 import java.awt.desktop.SystemSleepEvent;
 import java.util.*;
 
