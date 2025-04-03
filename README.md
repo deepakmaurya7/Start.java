@@ -72,6 +72,31 @@ PS C:\Users\Deepak Maurya\Desktop>  c:; cd 'c:\Users\Deepak Maurya\Desktop'; & '
 11
  Odd
 ```
+## File Name is equl.java.
+6. Define by equl and Lessar and Gretor
+```besh
+
+PS C:\Users\Deepak Maurya\Desktop>  c:; cd 'c:\Users\Deepak Maurya\Desktop'; & 'C:\Program Files\Java\jdk-24\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Deepak Maurya\AppData\Roaming\Code\User\workspaceStorage\55593bf372d6eb277ffe82ec1d7b1869\redhat.java\jdt_ws\Desktop_8e7aae91\bin' 'equl' 
+16
+20
+a is lesser
+
+PS C:\Users\Deepak Maurya\Desktop>  & 'C:\Program Files\Java\jdk-24\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Deepak Maurya\Ap12
+12
+12
+equal
+
+PS C:\Users\Deepak Maurya\Desktop>  c:; cd 'c:\Users\Deepak Maurya\Desktop'; & 'C:\Program Files\Java\jdk-24\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Deepak Maurya\AppData\Roaming\Code\User\workspaceStorage\55593bf372d6eb277ffe82ec1d7b1869\redhat.java\jdt_ws\Desktop_8e7aae91\bin' 'equl'
+20
+12
+ a is Greater
+```
+
+
+
+
+
+
 
 
 
