@@ -92,12 +92,24 @@ PS C:\Users\Deepak Maurya\Desktop>  c:; cd 'c:\Users\Deepak Maurya\Desktop'; & '
  a is Greater
 ```
 
+## File Name is Bazinga
+7. define by Bazinga and multipal corry
+```besh
+PS C:\Users\Deepak Maurya\Desktop>  & 'C:\Program Files\Java\jdk-24\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Deepak Maurya\AppData\Roaming\Cod1
+1
+Hello
+PS C:\Users\Deepak Maurya\Desktop>  c:; cd 'c:\Users\Deepak Maurya\Desktop'; & 'C:\Program Files\Java\jdk-24\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C2
+2
+Namaste
+PS C:\Users\Deepak Maurya\Desktop>  c:; cd 'c:\Users\Deepak Maurya\Desktop'; & 'C:\Program Files\Java\jdk-24\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Deepak Maurya\AppData\Roaming\Code\User\workspaceStorage\55593bf372d6eb277ffe82ec1d7b1869\redhat.java\jdt_ws\Desktop_8e7aae91\bin' 'equl' 
+4
+Invalid Button
 
+PS C:\Users\Deepak Maurya\Desktop>  c:; cd 'c:\Users\Deepak Maurya\Desktop'; & 'C:\Program Files\Java\jdk-24\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Deepak Maurya\AppData\Roaming\Code\User\workspaceStorage\55593bf372d6eb277ffe82ec1d7b1869\redhat.java\jdt_ws\Desktop_8e7aae91\bin' 'equl' 
+3
+Bonjour
 
-
-
-
-
+```
 
 
 
