@@ -113,23 +113,21 @@ Bonjour
 
 
 
+## File name is switch.java
+8. Define by Switch and break Button.
+```besh
+PS C:\Users\Deepak Maurya\Desktop>  c:; cd 'c:\Users\Deepak Maurya\Desktop'; & 'C:\Program Files\Java\jdk-24\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Deepak Maurya\AppData\Roaming\Code\User\workspaceStorage\55593bf372d6eb277ffe82ec1d7b1869\redhat.java\jdt_ws\Desktop_8e7aae91\bin' 'Switch' 
+4
+Waiting
 
+PS C:\Users\Deepak Maurya\Desktop>  c:; cd 'c:\Users\Deepak Maurya\Desktop'; & 'C:\Program Files\Java\jdk-24\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionM
+3
+School
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+PS C:\Users\Deepak Maurya\Desktop>  c:; cd 'c:\Users\Deepak Maurya\Desktop'; & 'C:\Program Files\Java\jdk-24\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionM
+5
+no word in button
+```
 
 
 
