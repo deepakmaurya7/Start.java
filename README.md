@@ -242,6 +242,154 @@ Hi Deepak Maurya
 Hi Deepak Maurya
 Hi Deepak Maurya
 Hi Deepak Maurya
+
+
+
+
+## file name is Loopsinfinite.java
+10 Define by Loopsinfinite.java
+```besh
+for Eampale -
+
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+
+
+
+
+
+
 ````
 
 
