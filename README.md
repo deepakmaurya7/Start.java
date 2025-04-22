@@ -247,7 +247,7 @@ Hi Deepak Maurya
 
 
 ## file name is Loopsinfinite.java
-10 Define by Loopsinfinite.java
+11 Define by Loopsinfinite.java
 ```besh
 for Eampale -
 
