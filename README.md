@@ -129,7 +129,7 @@ PS C:\Users\Deepak Maurya\Desktop>  c:; cd 'c:\Users\Deepak Maurya\Desktop'; & '
 no word in button
 ```
 
-## file name is Button.
+## file name is Button
 
 9. Define by Button
 ```besh
@@ -138,7 +138,111 @@ PS C:\Users\Deepak Maurya\Desktop>  c:; cd 'c:\Users\Deepak Maurya\Desktop'; & '
  Namaste
 ```
 
-
+## file name is Loopsfexble.java
+10 Define by Loopsfexble.java
+```besh
+PS C:\Users\Deepak Maurya\Desktop>  & 'C:\Program Files\Java\jdk-24\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Deepak Maurya\AppData\Roaming\Code\User\workspaceStorage\55593bf372d6eb277ffe82ec1d7b1869\redhat.java\jdt_ws\Desktop_8e7aae91\bin' 'Loopsfexble'
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+Hi Deepak Maurya
+````
 
 
 
